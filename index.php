@@ -1,5 +1,5 @@
 <?php
-define("PATH", "http://localhost/freshFoodDemo/");
+define("PATH", "https://fathomless-falls-45624.herokuapp.com/freshFoodDemo/");
 //Gọi kết nối tới CSDL
 require_once("connection.php");
 
